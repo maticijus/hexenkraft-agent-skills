@@ -12,6 +12,8 @@ description: >
 
 Operator: HEXENKRAFT s.r.o. (IČO 29665931). Product site: https://cybiq.eu
 
+> Note: prefer `npx skills add maticijus/hexenkraft-agent-skills --skill cybiq-cra-scope` if the skills.sh detail page lags.
+
 ## When to use
 
 - “Does the Cyber Resilience Act apply to this product?”
